@@ -1,3 +1,7 @@
+![image](shortelbowlogo.png)
+
+shortelbow pre-bottled cocktails and beer
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Grammyboi/Grammyboi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
